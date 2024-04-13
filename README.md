@@ -5,4 +5,4 @@ Reference design QCNN accelerator is implemented and verified under TSMC 22nm UL
 
 Reference: 'https://doi.org/10.1109/ACCESS.2020.3037931' and 'https://doi.org/10.1109/ACCESS.2019.2960948'
 
-We propose to utilize generative AI to design CNN accelerator with low power KWS in Caravel SoC environment. 
+We propose to utilize generative AI to design QCNN accelerator with low power KWS in Caravel SoC environment. 
